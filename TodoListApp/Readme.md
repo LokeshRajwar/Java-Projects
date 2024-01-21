@@ -1,6 +1,6 @@
  **# TodoApp: Conquering Chaos, One Task at a Time**
 
-**Welcome to TodoApp, your trusty sidekick in the quest for productivity!** 
+**Welcome to TodoApp, your trusty sidekick in the quest for productivity!**
 ###This web application, crafted with Java Servlets, JSP, JDBC, and Apache Tomcat, 
 ###empowers you to manage your tasks with ease and style. 
 
@@ -38,8 +38,12 @@
 Ideas, pull requests, and feedback are warmly welcomed! Let's create a todo app that truly rocks.
 
 
-- ![TodoApp Screenshot](screenshot.png)
+- [Screenshot1](/src/main/webapp/images/Main.png)
+-  [Screenshot1](/src/main/webapp/images/AddTask.png)
+- [Screenshot1](/src/main/webapp/images/UpdateTask.png)
+
+
 **Additional Notes:**
 - Check out the **Java documentation** for more details: [Oracle Java Docs](https://docs.oracle.com/en/java/javase/19)
-Link:- [here](https://www.google.com)
+- Link:- [here](https://www.google.com)
 **Ready to take control of your tasks? Dive into TodoApp and start checking things off your list!**
