@@ -58,8 +58,8 @@
 					<td><%=it.getTask()%></td>
 					<td><%=it.getStatus()%></td>
 					<td>
-						<a href="Update.jsp" class="btn btn-sm btn-success">Edit</a>
-						<a href="" class="btn btn-sm btn-danger">Delete</a>
+						<a href="Update.jsp?id=<%=it.getId()%>" class="btn btn-sm btn-success">Edit</a>
+						<a href="Delete?id=<%=it.getId()%>" class="btn btn-sm btn-danger">Delete</a>
 					</td>
 				</tr>
 				<%
