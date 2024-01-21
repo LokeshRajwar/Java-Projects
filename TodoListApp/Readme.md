@@ -1,4 +1,18 @@
- **TodoApp: Conquering Chaos, One Task at a Time**
+
+
+<h1 align="center">TodoApp</h1>
+
+<p align="center">
+  Conquering Chaos, One Task at a Time
+</p>
+<br>
+
+[![Java Servlets](https://img.shields.io/badge/Java_Servlets-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.javatpoint.com/servlet-tutorial)
+[![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=jsp&logoColor=white)](https://www.w3schools.in/jsp/tutorials/)
+[![JDBC](https://img.shields.io/badge/JDBC-4285F4?style=for-the-badge&logo=jdbc&logoColor=white)](https://www.javatpoint.com/java-jdbc)
+[![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apache&logoColor=black)](https://www.infoworld.com/article/3510460/what-is-apache-tomcat-the-original-java-servlet-container.html)
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
 
 **Welcome to TodoApp, your trusty sidekick in the quest for productivity!**
     - This web application, crafted with Java Servlets, JSP, JDBC, and Apache Tomcat which empowers you to manage your tasks with ease and style. 
@@ -10,15 +24,7 @@
 - **Persistent storage** – Your tasks will be safely stored in a database, ensuring they're always there when you need them.
 - **User-friendly interface** – Navigate effortlessly with clear task lists, intuitive controls, and a touch of visual flair.
 - **Cross-platform compatibility** – Access your tasks from any device with a web browser.
-
-**Technologies Used:**
-
-- **Java Servlets:** Handling requests and responses dynamically.
-- **JSP (JavaServer Pages):** Creating dynamic web content with ease.
-- **JDBC (Java Database Connectivity):** Connecting to databases seamlessly.
-- **Apache Tomcat:** The powerful servlet container bringing it all together.
-- **HTML:** Structuring the content for clarity.
-- **CSS:** Enhancing the look and feel like a pro.
+  
 
 **Getting Started:**
 
