@@ -1,4 +1,8 @@
-
+<div align="center">
+    <a href="/TodoListApp/src/main/webapp/images/LOGO.png">
+        <img width="300" height="200" src="/TodoListApp/src/main/webapp/images/LOGO.png">
+    </a>
+</div>
 
 <h1 align="center">TodoApp</h1>
 
