@@ -1,8 +1,8 @@
  **# TodoApp: Conquering Chaos, One Task at a Time**
 
 **Welcome to TodoApp, your trusty sidekick in the quest for productivity!**
-###This web application, crafted with Java Servlets, JSP, JDBC, and Apache Tomcat, 
-###empowers you to manage your tasks with ease and style. 
+    - This web application, crafted with Java Servlets, JSP, JDBC, and Apache Tomcat which empowers you to manage your tasks with ease and style. 
+    
 
 **Features:**
 
@@ -37,13 +37,36 @@
 
 Ideas, pull requests, and feedback are warmly welcomed! Let's create a todo app that truly rocks.
 
+Installation Instructions:
+- Install Java Development Kit (JDK): Ensure you have JDK version 8 or later installed. 
+- Download it from https://www.oracle.com/java/technologies/downloads/ if needed.
+- Download Apache Tomcat: Grab the latest stable version from https://tomcat.apache.org/download-90.cgi.
+- Install a database (if not already present): Choose your preferred database (e.g., MySQL, PostgreSQL) and follow its installation instructions.
+- Set up database connection: Create a database named todoapp (or your preferred name) and configure the connection details in the db_config.properties file within the project.
+  
+**Dependencies:**
 
-- [Screenshot1](/src/main/webapp/images/Main.png)
--  [Screenshot1](/src/main/webapp/images/AddTask.png)
-- [Screenshot1](/src/main/webapp/images/UpdateTask.png)
+Servlet API: Ensure you have the Servlet API jar file in your project's classpath. It's usually included with Tomcat.
+JDBC driver: Download the JDBC driver for your chosen database and add it to your project's classpath.
+Under the "Additional Notes" section, add:
 
+Live Demo:
+
+View a live demo of TodoApp in action here: [Link to your deployed demo]
+<div align="center">
+    <a href="/TodoListApp/src/main/webapp/images/Main.png">
+        <img width="300" height="200" src="/TodoListApp/src/main/webapp/images/Main.png">
+    </a>
+    <a href="/TodoListApp/src/main/webapp/images/AddTask.png">
+        <img width="300" height="200" src="/TodoListApp/src/main/webapp/images/AddTask.png">
+    </a>
+    <a href="/TodoListApp/src/main/webapp/images/UpdateTask.png">
+        <img width="300" height="200" src="/TodoListApp/src/main/webapp/images/UpdateTask.png">
+    </a>
+</div>
 
 **Additional Notes:**
 - Check out the **Java documentation** for more details: [Oracle Java Docs](https://docs.oracle.com/en/java/javase/19)
 - Link:- [here](https://www.google.com)
+  
 **Ready to take control of your tasks? Dive into TodoApp and start checking things off your list!**
