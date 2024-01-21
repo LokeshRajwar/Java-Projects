@@ -1,4 +1,4 @@
- **# TodoApp: Conquering Chaos, One Task at a Time**
+ **TodoApp: Conquering Chaos, One Task at a Time**
 
 **Welcome to TodoApp, your trusty sidekick in the quest for productivity!**
     - This web application, crafted with Java Servlets, JSP, JDBC, and Apache Tomcat which empowers you to manage your tasks with ease and style. 
@@ -46,13 +46,10 @@ Installation Instructions:
   
 **Dependencies:**
 
-Servlet API: Ensure you have the Servlet API jar file in your project's classpath. It's usually included with Tomcat.
-JDBC driver: Download the JDBC driver for your chosen database and add it to your project's classpath.
-Under the "Additional Notes" section, add:
-
-Live Demo:
-
-View a live demo of TodoApp in action here: [Link to your deployed demo]
+- Servlet API: Ensure you have the Servlet API jar file in your project's classpath. It's usually included with Tomcat.
+- JDBC driver: Download the JDBC driver for your chosen database and add it to your project's classpath.
+  
+Live Demo: View a live demo ScreenShots of TodoApp in action here:
 <div align="center">
     <a href="/TodoListApp/src/main/webapp/images/Main.png">
         <img width="300" height="200" src="/TodoListApp/src/main/webapp/images/Main.png">
@@ -66,7 +63,5 @@ View a live demo of TodoApp in action here: [Link to your deployed demo]
 </div>
 
 **Additional Notes:**
-- Check out the **Java documentation** for more details: [Oracle Java Docs](https://docs.oracle.com/en/java/javase/19)
-- Link:- [here](https://www.google.com)
-  
+- Check out the **Java documentation** for more details: [Oracle Java Docs](https://docs.oracle.com/en/java/javase/19)  
 **Ready to take control of your tasks? Dive into TodoApp and start checking things off your list!**
