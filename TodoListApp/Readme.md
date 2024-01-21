@@ -1,6 +1,6 @@
 <div align="center">
-    <a href="/TodoListApp/src/main/webapp/images/LOGO.png">
-        <img width="300" height="200" src="/TodoListApp/src/main/webapp/images/LOGO.png">
+    <a href="/TodoListApp/src/main/webapp/images/logo.png">
+        <img width="300" height="200" src="/TodoListApp/src/main/webapp/images/logo.png">
     </a>
 </div>
 
